@@ -38,3 +38,17 @@ C:\Users\Lenovo\Desktop\ProjektLogistyka-master\Logistyka2_staging_0.0\obj\Debug
 C:\Users\Lenovo\Desktop\ProjektLogistyka-master\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csproj.CopyComplete
 C:\Users\Lenovo\Desktop\ProjektLogistyka-master\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.exe
 C:\Users\Lenovo\Desktop\ProjektLogistyka-master\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.pdb
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\bin\Debug\Logistyka2_staging_0.0.exe.config
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\bin\Debug\Logistyka2_staging_0.0.exe
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\bin\Debug\Logistyka2_staging_0.0.pdb
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0._0.Form1.resources
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0._0.Form2.resources
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0._0.Properties.Resources.resources
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.csproj.CopyComplete
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.exe
+C:\Users\admin\Source\Repos\LogistykaFinalFinalv2\Logistyka2_staging_0.0\obj\Debug\Logistyka2_staging_0.0.pdb

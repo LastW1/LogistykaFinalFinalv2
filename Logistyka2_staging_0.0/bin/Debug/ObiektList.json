@@ -1,29 +1,85 @@
 {
   "krawedzie": [
     {
+      "poprzednie": 0,
+      "nastepne": 1,
+      "czasNormalny": 10,
+      "czasGraniczny": 6,
+      "kosztNormalny": 30.0,
+      "kosztGraniczny": 40.0
+    },
+    {
       "poprzednie": 1,
       "nastepne": 2,
-      "czasNormalny": 1,
-      "czasGraniczny": 1,
-      "kosztNormalny": 1.0,
-      "kosztGraniczny": 1.0
+      "czasNormalny": 12,
+      "czasGraniczny": 10,
+      "kosztNormalny": 43.0,
+      "kosztGraniczny": 45.0
+    },
+    {
+      "poprzednie": 1,
+      "nastepne": 3,
+      "czasNormalny": 8,
+      "czasGraniczny": 6,
+      "kosztNormalny": 26.0,
+      "kosztGraniczny": 30.0
     },
     {
       "poprzednie": 2,
       "nastepne": 3,
-      "czasNormalny": 1,
-      "czasGraniczny": 1,
-      "kosztNormalny": 1.0,
-      "kosztGraniczny": 1.0
+      "czasNormalny": 4,
+      "czasGraniczny": 4,
+      "kosztNormalny": 15.0,
+      "kosztGraniczny": 15.0
     },
     {
-      "poprzednie": 1,
-      "nastepne": 3,
-      "czasNormalny": 1,
-      "czasGraniczny": 1,
-      "kosztNormalny": 1.0,
-      "kosztGraniczny": 1.0
+      "poprzednie": 2,
+      "nastepne": 4,
+      "czasNormalny": 7,
+      "czasGraniczny": 5,
+      "kosztNormalny": 20.0,
+      "kosztGraniczny": 22.0
+    },
+    {
+      "poprzednie": 2,
+      "nastepne": 5,
+      "czasNormalny": 11,
+      "czasGraniczny": 7,
+      "kosztNormalny": 24.0,
+      "kosztGraniczny": 30.0
+    },
+    {
+      "poprzednie": 3,
+      "nastepne": 4,
+      "czasNormalny": 5,
+      "czasGraniczny": 5,
+      "kosztNormalny": 10.0,
+      "kosztGraniczny": 10.0
+    },
+    {
+      "poprzednie": 4,
+      "nastepne": 5,
+      "czasNormalny": 4,
+      "czasGraniczny": 3,
+      "kosztNormalny": 8.0,
+      "kosztGraniczny": 11.0
+    },
+    {
+      "poprzednie": 4,
+      "nastepne": 6,
+      "czasNormalny": 9,
+      "czasGraniczny": 6,
+      "kosztNormalny": 16.0,
+      "kosztGraniczny": 19.0
+    },
+    {
+      "poprzednie": 5,
+      "nastepne": 6,
+      "czasNormalny": 8,
+      "czasGraniczny": 3,
+      "kosztNormalny": 27.0,
+      "kosztGraniczny": 34.0
     }
   ],
-  "czasDocelowy": 1
+  "czasDocelowy": 40
 }
