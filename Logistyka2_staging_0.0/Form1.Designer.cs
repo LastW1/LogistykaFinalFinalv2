@@ -218,7 +218,7 @@
             this.GrafButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.GrafButton.ForeColor = System.Drawing.Color.LimeGreen;
             this.GrafButton.Image = global::Logistyka2_staging_0._0.Properties.Resources.serca;
-            this.GrafButton.Location = new System.Drawing.Point(640, 298);
+            this.GrafButton.Location = new System.Drawing.Point(640, 488);
             this.GrafButton.Name = "GrafButton";
             this.GrafButton.Size = new System.Drawing.Size(116, 81);
             this.GrafButton.TabIndex = 21;
@@ -231,7 +231,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Logistyka2_staging_0._0.Properties.Resources.pies;
-            this.ClientSize = new System.Drawing.Size(768, 455);
+            this.ClientSize = new System.Drawing.Size(768, 594);
             this.Controls.Add(this.GrafButton);
             this.Controls.Add(this.KosztResult);
             this.Controls.Add(this.CzasResult);
